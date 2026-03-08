@@ -11,9 +11,7 @@ Running this analysis on the provided dataset reveals a **diversified revenue mo
 
 
 
-
-<img width="829" height="512" alt="Pareto Analysis" src="https://github.com/user-attachments/assets/0b4f2bb2-1146-4d71-94e8-6f47f0a7556a" />
-
+<img width="829" height="512" alt="Pareto Analysis" src="https://github.com/user-attachments/assets/a1935442-0648-4e53-9b3f-0d8adc28d8eb" />
 
 
 
