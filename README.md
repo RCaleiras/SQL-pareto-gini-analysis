@@ -9,6 +9,14 @@ Running this analysis on the provided dataset reveals a **diversified revenue mo
 * **Gini Coefficient:** Low (approx. 0.3), indicating that the business is not overly dependent on a few "whale" customers.
 * **Strategic Insight:** High stability. Marketing efforts should focus on broad-base retention rather than just a tiny VIP segment.
 
+
+
+
+<img width="829" height="512" alt="Pareto Analysis" src="https://github.com/user-attachments/assets/0b4f2bb2-1146-4d71-94e8-6f47f0a7556a" />
+
+
+
+
 ---
 
 ## Technical Stack & Skills
