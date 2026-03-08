@@ -26,7 +26,7 @@ Running this analysis on the provided dataset reveals a **diversified revenue mo
 
 ---
 
-## 📐 The Methodology
+## The Methodology
 The script follows a 5-stage pipeline:
 1. **Cleaning:** Removing null IDs and invalid transactions.
 2. **Aggregation:** Calculating Lifetime Value (LTV) per customer.
